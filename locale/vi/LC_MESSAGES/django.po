@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-24 23:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Champs de l'admin / modèles
+msgid "N°"
+msgstr "Số"
+
+msgid "Série"
+msgstr "Ký hiệu"
+
+msgid "Date"
+msgstr "Ngày"
+
+msgid "Vendeur"
+msgstr "Người bán"
+
+msgid "Acheteur"
+msgstr "Người mua"
+
+msgid "Total HT"
+msgstr "Tổng chưa thuế"
+
+msgid "TVA"
+msgstr "Thuế GTGT"
+
+msgid "Total TTC"
+msgstr "Tổng sau thuế"
+
+msgid "Facture"
+msgstr "Hóa đơn"
+
+msgid "N° ligne"
+msgstr "Dòng số"
+
+msgid "Désignation"
+msgstr "Mô tả"
+
+msgid "Unité"
+msgstr "Đơn vị"
+
+msgid "Quantité"
+msgstr "Số lượng"
+
+msgid "Prix unitaire"
+msgstr "Đơn giá"
+
+msgid "Montant HT"
+msgstr "Thành tiền chưa thuế"
+
+msgid "Montant HT ligne"
+msgstr "Thành tiền dòng"
+
+msgid "Taux de TVA"
+msgstr "Tỷ lệ thuế GTGT"
+
+msgid "Langue préférée"
+msgstr "Ngôn ngữ ưa thích"
+
+msgid "Date d'importation"
+msgstr "Ngày nhập"
+
+msgid "Date d'émission"
+msgstr "Ngày phát hành"
+
+msgid "Méthode de paiement"
+msgstr "Phương thức thanh toán"
+
+msgid "Devise"
+msgstr "Đơn vị tiền tệ"
+
+msgid "Taux de change"
+msgstr "Tỷ giá"
+
+msgid "Numéro de facture"
+msgstr "Số hóa đơn"
+
+msgid "Série de facture"
+msgstr "Ký hiệu hóa đơn"
+
+msgid "Nom du vendeur"
+msgstr "Tên người bán"
+
+msgid "Numéro fiscal du vendeur"
+msgstr "Mã số thuế người bán"
+
+msgid "Adresse du vendeur"
+msgstr "Địa chỉ người bán"
+
+msgid "Nom de l'acheteur"
+msgstr "Tên người mua"
+
+msgid "Numéro fiscal de l'acheteur"
+msgstr "Mã số thuế người mua"
+
+msgid "Adresse de l'acheteur"
+msgstr "Địa chỉ người mua"
+
+msgid "Montant de la TVA"
+msgstr "Tiền thuế GTGT"
+
+msgid "Montant en lettres"
+msgstr "Tổng số bằng chữ"
+
+msgid "Exporter les factures sélectionnées en Excel"
+msgstr "Xuất các hóa đơn đã chọn ra Excel"
