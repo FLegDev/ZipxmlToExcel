@@ -97,7 +97,7 @@ def parse_xml_content(xml_bytes):
                         quantity=item.findtext("SLuong") or 0,
                         unit_price=item.findtext("DGia") or 0,
                         total_price=item.findtext("ThTien") or 0,
-                        vat_rate=item.findtext("TSuat") or "0%",
+                        vat_rate=item.findtext("TSuat") or None,
                     )
                 except IntegrityError as e:
                     print(f"Erreur ligne facture ignorée : {e}")
