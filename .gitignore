@@ -12,7 +12,7 @@ db.sqlite3
 /media/
 
 # Environnement virtuel
-.venv/
+venv/
 .env
 
 # VS Code / PyCharm
